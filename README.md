@@ -23,13 +23,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [AnatoLearn](https://anatolearn.netlify.app)
 
-- 👨‍💻 All of my projects are available at [https://michaelgatmaitan.netlify.app](https://michaelgatmaitan.netlify.app)
+- 👨‍💻 All of my projects are available at [https://michaelg.vercel.app](https://michaelg.vercel.app)
 
 - 📫 How to reach me **mchlgtmtn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/michaelgatmaitan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/michaelgatmaitan" height="30" width="40" /></a>
 <a href="https://twitter.com/michaelgat76834" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="michaelgat76834" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/michael-gatmaitan-4642b4198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-gatmaitan-4642b4198" height="30" width="40" /></a>
 <a href="https://fb.com/mchlgtmtn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mchlgtmtn" height="30" width="40" /></a>
