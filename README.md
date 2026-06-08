@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/michaelgat76834" target="blank"><img src="https://img.shields.io/twitter/follow/michaelgat76834?logo=twitter&style=for-the-badge" alt="michaelgat76834" /></a> </p>
 
-- 🔭 I’m currently working on [AnatoLearn](https://anatolearn.netlify.app)
+- 🔭 I’m currently working on [Fetchfolio](https://fetchfolio.vercel.app)
 
-- 👨‍💻 All of my projects are available at [https://michaelg.vercel.app](https://michaelg.vercel.app)
+- 👨‍💻 All of my projects are available at [https://michaelg.vercel.app](https://mgatmaitan.vercel.app)
 
 - 📫 How to reach me **mchlgtmtn@gmail.com**
 
