@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Fetchfolio](https://fetchfolio.vercel.app)
 
-- 👨‍💻 All of my projects are available at [https://michaelg.vercel.app](https://mgatmaitan.vercel.app)
+- 👨‍💻 All of my projects are available at [https://mgatmaitan.vercel.app](https://mgatmaitan.vercel.app)
 
 - 📫 How to reach me **mchlgtmtn@gmail.com**
 
